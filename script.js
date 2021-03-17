@@ -4,4 +4,4 @@ function displayMessage () {
   document.getElementById('paragraph').innerHTML = 'How are you doing today'
 }
 
-document.body.style.backgroundColor = 'burlywood;' 
+document.body.style.backgroundColor = 'burlywood;'
